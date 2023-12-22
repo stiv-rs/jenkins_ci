@@ -12,7 +12,7 @@ public class BasicApplicationTests {
  
  @Test
  public void contextLoads() {
- 	    String meessage= "Cambio para la prueba de devops en jenkins";
+ 	    String meessage= "Cambio de dependencias u versiones de maven y lombook";
  	    Assert.assertNotNull(meessage);
  }
  
